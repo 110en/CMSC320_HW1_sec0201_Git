@@ -7,3 +7,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Machine learning.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: I have no idea.
+
